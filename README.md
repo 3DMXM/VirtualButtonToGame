@@ -1,0 +1,2 @@
+# VirtualButtonToGame
+解决某些游戏会屏蔽虚拟按键的问题
